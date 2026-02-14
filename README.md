@@ -9,7 +9,7 @@
 - **Typography Controls** - Font size and line height adjustment
 - **13 Languages** - Because 3 is not enough!
 
-## 🗣️ Supported Languages
+## Supported Languages
 
 | Language | Code | Status |
 |----------|------|--------|
