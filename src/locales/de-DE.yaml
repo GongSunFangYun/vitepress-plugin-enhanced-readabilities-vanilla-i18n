@@ -1,0 +1,58 @@
+title:
+  title: Lesbarkeitsverbesserung
+  titleAriaLabel: Lesbarkeitsverbesserung
+layoutSwitch:
+  title: Layout wechseln
+  titleAriaLabel: Layout wechseln
+  titleHelpMessage: Passen Sie den Layout-Stil von VitePress an, um sich an unterschiedliche Leseanforderungen und Bildschirme anzupassen.
+  titleScreenNavWarningMessage: Auf dem mobilen Bildschirm kann kein Layout gewechselt werden.
+  optionFullWidth: Alles erweitern
+  optionFullWidthAriaLabel: Alles erweitern
+  optionFullWidthHelpMessage: Die Seitenleiste und der Inhaltsbereich nehmen die gesamte Bildschirmbreite ein.
+  optionSidebarWidthAdjustableOnly: Seitenleistenbreite anpassbar
+  optionSidebarWidthAdjustableOnlyAriaLabel: Seitenleistenbreite anpassbar
+  optionSidebarWidthAdjustableOnlyHelpMessage: Erweitern Sie die Seitenleistenbreite und fügen Sie einen neuen Schieberegler hinzu, mit dem der Benutzer die gewünschte maximale Breite der Seitenleiste auswählen und anpassen kann, aber die Inhaltsbereichsbreite bleibt gleich.
+  optionBothWidthAdjustable: Alles erweitern (Breite anpassbar)
+  optionBothWidthAdjustableAriaLabel: Alles erweitern (Breite anpassbar)
+  optionBothWidthAdjustableHelpMessage: Erweitern Sie sowohl die Seitenleiste als auch den Dokumentinhalt und fügen Sie zwei neue Schieberegler hinzu, mit denen der Benutzer die gewünschte maximale Breite der Seitenleiste oder des Dokumentinhalts auswählen und anpassen kann.
+  optionOriginalWidth: Ursprüngliche Breite
+  optionOriginalWidthAriaLabel: Ursprüngliche Breite
+  optionOriginalWidthHelpMessage: Die ursprüngliche Layout-Breite von VitePress
+  contentLayoutMaxWidth:
+    title: Maximale Inhaltsbreite
+    titleAriaLabel: Maximale Inhaltsbreite
+    titleHelpMessage: Passen Sie den genauen Wert der Dokumentinhaltsbreite des VitePress-Layouts an, um sich an unterschiedliche Leseanforderungen und Bildschirme anzupassen.
+    titleScreenNavWarningMessage: Die maximale Inhaltsbreite ist auf dem mobilen Bildschirm vorübergehend nicht verfügbar.
+    slider: Maximale Inhaltsbreite anpassen
+    sliderAriaLabel: Maximale Inhaltsbreite anpassen
+    sliderHelpMessage: Ein Schieberegler, mit dem der Benutzer die gewünschte maximale Breite des Inhalts auswählen und anpassen kann.
+  pageLayoutMaxWidth:
+    title: Maximale Seitenbreite
+    titleAriaLabel: Maximale Seitenbreite
+    titleHelpMessage: Passen Sie den genauen Wert der Seitenbreite des VitePress-Layouts an, um sich an unterschiedliche Leseanforderungen und Bildschirme anzupassen.
+    titleScreenNavWarningMessage: Die maximale Seitenbreite ist auf dem mobilen Bildschirm vorübergehend nicht verfügbar.
+    slider: Maximale Seitenbreite anpassen
+    sliderAriaLabel: Maximale Seitenbreite anpassen
+    sliderHelpMessage: Ein Schieberegler, mit dem der Benutzer die gewünschte maximale Breite der Seite auswählen und anpassen kann.
+spotlight:
+  title: Fokus
+  titleAriaLabel: Fokus
+  titleHelpMessage: Heben Sie die Zeile hervor, über die die Maus gerade schwebt, um die Erfahrung für Benutzer mit Lese- und Konzentrationsschwierigkeiten zu optimieren.
+  titleScreenNavWarningMessage: Fokus ist auf dem mobilen Bildschirm vorübergehend nicht verfügbar.
+  optionOn: Ein
+  optionOnAriaLabel: Ein
+  optionOnHelpMessage: Fokus einschalten.
+  optionOff: Aus
+  optionOffAriaLabel: Aus
+  optionOffHelpMessage: Fokus ausschalten.
+  styles:
+    title: Fokus-Stil
+    titleAriaLabel: Fokus-Stil
+    titleHelpMessage: Passen Sie die Stile des Fokus an.
+    titleScreenNavWarningMessage: Der Fokus-Stil ist auf dem mobilen Bildschirm vorübergehend nicht verfügbar.
+    optionUnder: Darunter
+    optionUnderAriaLabel: Darunter
+    optionUnderHelpMessage: Fügt eine einfarbige Hintergrundfarbe unter dem schwebenden Element hinzu, um hervorzuheben, wo sich der Cursor gerade befindet.
+    optionAside: Daneben
+    optionAsideAriaLabel: Daneben
+    optionAsideHelpMessage: Fügt eine feste Linie mit einfarbiger Farbe neben dem schwebenden Element hinzu, um hervorzuheben, wo sich der Cursor gerade befindet.

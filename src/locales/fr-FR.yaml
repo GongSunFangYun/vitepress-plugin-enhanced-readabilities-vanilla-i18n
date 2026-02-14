@@ -1,0 +1,58 @@
+title:
+  title: Amélioration de la lisibilité
+  titleAriaLabel: Amélioration de la lisibilité
+layoutSwitch:
+  title: Changer la mise en page
+  titleAriaLabel: Changer la mise en page
+  titleHelpMessage: Ajustez le style de mise en page de VitePress pour vous adapter aux différents besoins de lecture et écrans.
+  titleScreenNavWarningMessage: Aucune mise en page disponible pour changer sur l'écran mobile.
+  optionFullWidth: Tout développer
+  optionFullWidthAriaLabel: Tout développer
+  optionFullWidthHelpMessage: La barre latérale et la zone de contenu occupent toute la largeur de l'écran.
+  optionSidebarWidthAdjustableOnly: Largeur de la barre latérale ajustable
+  optionSidebarWidthAdjustableOnlyAriaLabel: Largeur de la barre latérale ajustable
+  optionSidebarWidthAdjustableOnlyHelpMessage: Développez la largeur de la barre latérale et ajoutez un nouveau curseur pour que l'utilisateur choisisse et personnalise la largeur maximale de la barre latérale, mais la largeur de la zone de contenu reste la même.
+  optionBothWidthAdjustable: Tout développer (largeur ajustable)
+  optionBothWidthAdjustableAriaLabel: Tout développer (largeur ajustable)
+  optionBothWidthAdjustableHelpMessage: Développez à la fois la barre latérale et le contenu du document et ajoutez deux nouveaux curseurs pour que l'utilisateur choisisse et personnalise la largeur maximale de la barre latérale ou du contenu du document.
+  optionOriginalWidth: Largeur d'origine
+  optionOriginalWidthAriaLabel: Largeur d'origine
+  optionOriginalWidthHelpMessage: La largeur de mise en page d'origine de VitePress
+  contentLayoutMaxWidth:
+    title: Largeur maximale du contenu
+    titleAriaLabel: Largeur maximale du contenu
+    titleHelpMessage: Ajustez la valeur exacte de la largeur du contenu du document de VitePress pour vous adapter aux différents besoins de lecture et écrans.
+    titleScreenNavWarningMessage: La largeur maximale du contenu n'est pas disponible temporairement sur l'écran mobile.
+    slider: Ajuster la largeur maximale du contenu
+    sliderAriaLabel: Ajuster la largeur maximale du contenu
+    sliderHelpMessage: Un curseur pour que l'utilisateur choisisse et personnalise la largeur maximale souhaitée du contenu.
+  pageLayoutMaxWidth:
+    title: Largeur maximale de la page
+    titleAriaLabel: Largeur maximale de la page
+    titleHelpMessage: Ajustez la valeur exacte de la largeur de la page de VitePress pour vous adapter aux différents besoins de lecture et écrans.
+    titleScreenNavWarningMessage: La largeur maximale de la page n'est pas disponible temporairement sur l'écran mobile.
+    slider: Ajuster la largeur maximale de la page
+    sliderAriaLabel: Ajuster la largeur maximale de la page
+    sliderHelpMessage: Un curseur pour que l'utilisateur choisisse et personnalise la largeur maximale souhaitée de la page.
+spotlight:
+  title: Projecteur
+  titleAriaLabel: Projecteur
+  titleHelpMessage: Mettez en surbrillance la ligne sur laquelle la souris survole actuellement pour optimiser l'expérience des utilisateurs ayant des difficultés de lecture et de concentration.
+  titleScreenNavWarningMessage: Le projecteur n'est pas disponible temporairement sur l'écran mobile.
+  optionOn: Activer
+  optionOnAriaLabel: Activer
+  optionOnHelpMessage: Activer le projecteur.
+  optionOff: Désactiver
+  optionOffAriaLabel: Désactiver
+  optionOffHelpMessage: Désactiver le projecteur.
+  styles:
+    title: Style du projecteur
+    titleAriaLabel: Style du projecteur
+    titleHelpMessage: Ajustez les styles du projecteur.
+    titleScreenNavWarningMessage: Le style du projecteur n'est pas disponible temporairement sur l'écran mobile.
+    optionUnder: En dessous
+    optionUnderAriaLabel: En dessous
+    optionUnderHelpMessage: Ajoute une couleur de fond unie sous l'élément pour mettre en évidence l'endroit où se trouve le curseur.
+    optionAside: À côté
+    optionAsideAriaLabel: À côté
+    optionAsideHelpMessage: Ajoute une ligne fixe de couleur unie à côté de l'élément pour mettre en évidence l'endroit où se trouve le curseur.

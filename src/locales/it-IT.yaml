@@ -1,0 +1,58 @@
+title:
+  title: Miglioramento della leggibilità
+  titleAriaLabel: Miglioramento della leggibilità
+layoutSwitch:
+  title: Cambia layout
+  titleAriaLabel: Cambia layout
+  titleHelpMessage: Regola lo stile di layout di VitePress per adattarsi a diverse esigenze di lettura e schermi.
+  titleScreenNavWarningMessage: Nessun layout disponibile per il cambio su schermo mobile.
+  optionFullWidth: Espandi tutto
+  optionFullWidthAriaLabel: Espandi tutto
+  optionFullWidthHelpMessage: La barra laterale e l'area di contenuto occupano l'intera larghezza dello schermo.
+  optionSidebarWidthAdjustableOnly: Larghezza barra laterale regolabile
+  optionSidebarWidthAdjustableOnlyAriaLabel: Larghezza barra laterale regolabile
+  optionSidebarWidthAdjustableOnlyHelpMessage: Espandi la larghezza della barra laterale e aggiungi un nuovo cursore per consentire all'utente di scegliere e personalizzare la larghezza massima della barra laterale, ma l'area di contenuto rimane la stessa.
+  optionBothWidthAdjustable: Espandi tutto (larghezza regolabile)
+  optionBothWidthAdjustableAriaLabel: Espandi tutto (larghezza regolabile)
+  optionBothWidthAdjustableHelpMessage: Espandi sia la barra laterale che il contenuto del documento e aggiungi due nuovi cursori per consentire all'utente di scegliere e personalizzare la larghezza massima della barra laterale o del contenuto del documento.
+  optionOriginalWidth: Larghezza originale
+  optionOriginalWidthAriaLabel: Larghezza originale
+  optionOriginalWidthHelpMessage: La larghezza di layout originale di VitePress
+  contentLayoutMaxWidth:
+    title: Larghezza massima del contenuto
+    titleAriaLabel: Larghezza massima del contenuto
+    titleHelpMessage: Regola il valore esatto della larghezza del contenuto del documento di VitePress per adattarsi a diverse esigenze di lettura e schermi.
+    titleScreenNavWarningMessage: La larghezza massima del contenuto non è disponibile temporaneamente su schermo mobile.
+    slider: Regola la larghezza massima del contenuto
+    sliderAriaLabel: Regola la larghezza massima del contenuto
+    sliderHelpMessage: Un cursore per consentire all'utente di scegliere e personalizzare la larghezza massima desiderata del contenuto.
+  pageLayoutMaxWidth:
+    title: Larghezza massima della pagina
+    titleAriaLabel: Larghezza massima della pagina
+    titleHelpMessage: Regola il valore esatto della larghezza della pagina di VitePress per adattarsi a diverse esigenze di lettura e schermi.
+    titleScreenNavWarningMessage: La larghezza massima della pagina non è disponibile temporaneamente su schermo mobile.
+    slider: Regola la larghezza massima della pagina
+    sliderAriaLabel: Regola la larghezza massima della pagina
+    sliderHelpMessage: Un cursore per consentire all'utente di scegliere e personalizzare la larghezza massima desiderata della pagina.
+spotlight:
+  title: Riflettore
+  titleAriaLabel: Riflettore
+  titleHelpMessage: Evidenzia la riga su cui il mouse sta attualmente passando per ottimizzare l'esperienza degli utenti con difficoltà di lettura e concentrazione.
+  titleScreenNavWarningMessage: Il riflettore non è disponibile temporaneamente su schermo mobile.
+  optionOn: Attiva
+  optionOnAriaLabel: Attiva
+  optionOnHelpMessage: Attiva il riflettore.
+  optionOff: Disattiva
+  optionOffAriaLabel: Disattiva
+  optionOffHelpMessage: Disattiva il riflettore.
+  styles:
+    title: Stile riflettore
+    titleAriaLabel: Stile riflettore
+    titleHelpMessage: Regola gli stili del riflettore.
+    titleScreenNavWarningMessage: Lo stile del riflettore non è disponibile temporaneamente su schermo mobile.
+    optionUnder: Sotto
+    optionUnderAriaLabel: Sotto
+    optionUnderHelpMessage: Aggiunge un colore di sfondo solido sotto l'elemento per evidenziare dove si trova il cursore.
+    optionAside: A fianco
+    optionAsideAriaLabel: A fianco
+    optionAsideHelpMessage: Aggiunge una linea fissa di colore solido accanto all'elemento per evidenziare dove si trova il cursore.

@@ -1,0 +1,58 @@
+title:
+  title: 読書機能強化
+  titleAriaLabel: 読書機能強化
+layoutSwitch:
+  title: レイアウト切替
+  titleAriaLabel: レイアウト切替
+  titleHelpMessage: VitePressのレイアウトスタイルを調整して、さまざまな読書ニーズや画面に適応します。
+  titleScreenNavWarningMessage: モバイル画面ではレイアウトを切り替えられません。
+  optionFullWidth: すべて展開
+  optionFullWidthAriaLabel: すべて展開
+  optionFullWidthHelpMessage: サイドバーとコンテンツエリアが画面の全幅を占めます。
+  optionSidebarWidthAdjustableOnly: サイドバー幅調整可能
+  optionSidebarWidthAdjustableOnlyAriaLabel: サイドバー幅調整可能
+  optionSidebarWidthAdjustableOnlyHelpMessage: サイドバー幅を展開し、新しいスライダーを追加してユーザーがサイドバーの最大幅をカスタマイズできますが、コンテンツエリアの幅は同じままです。
+  optionBothWidthAdjustable: すべて展開（幅調整可能）
+  optionBothWidthAdjustableAriaLabel: すべて展開（幅調整可能）
+  optionBothWidthAdjustableHelpMessage: サイドバーとドキュメントコンテンツの両方を展開し、2つの新しいスライダーを追加してユーザーがサイドバーまたはドキュメントコンテンツの最大幅をカスタマイズできます。
+  optionOriginalWidth: 元の幅
+  optionOriginalWidthAriaLabel: 元の幅
+  optionOriginalWidthHelpMessage: VitePressの元のレイアウト幅
+  contentLayoutMaxWidth:
+    title: コンテンツ最大幅
+    titleAriaLabel: コンテンツ最大幅
+    titleHelpMessage: VitePressレイアウトのドキュメントコンテンツの幅を調整して、さまざまな読書ニーズや画面に適応します。
+    titleScreenNavWarningMessage: モバイル画面ではコンテンツ最大幅を一時的に調整できません。
+    slider: コンテンツ最大幅を調整
+    sliderAriaLabel: コンテンツ最大幅を調整
+    sliderHelpMessage: ユーザーがコンテンツ最大幅の希望する値を選択してカスタマイズできる範囲スライダー。
+  pageLayoutMaxWidth:
+    title: ページ最大幅
+    titleAriaLabel: ページ最大幅
+    titleHelpMessage: VitePressレイアウトのページ幅を調整して、さまざまな読書ニーズや画面に適応します。
+    titleScreenNavWarningMessage: モバイル画面ではページ最大幅を一時的に調整できません。
+    slider: ページ最大幅を調整
+    sliderAriaLabel: ページ最大幅を調整
+    sliderHelpMessage: ユーザーがページ最大幅の希望する値を選択してカスタマイズできる範囲スライダー。
+spotlight:
+  title: スポットライト
+  titleAriaLabel: スポットライト
+  titleHelpMessage: マウスが現在ホバーしている行をハイライトして、読書や集中が困難なユーザーの体験を最適化します。
+  titleScreenNavWarningMessage: モバイル画面ではスポットライトを一時的に使用できません。
+  optionOn: オン
+  optionOnAriaLabel: オン
+  optionOnHelpMessage: スポットライトをオンにします。
+  optionOff: オフ
+  optionOffAriaLabel: オフ
+  optionOffHelpMessage: スポットライトをオフにします。
+  styles:
+    title: スポットライトスタイル
+    titleAriaLabel: スポットライトスタイル
+    titleHelpMessage: スポットライトのスタイルを調整します。
+    titleScreenNavWarningMessage: モバイル画面ではスポットライトスタイルを一時的に調整できません。
+    optionUnder: 下に表示
+    optionUnderAriaLabel: 下に表示
+    optionUnderHelpMessage: ホバー要素の下に単色の背景を追加して、カーソルが現在ホバーしている場所を強調表示します。
+    optionAside: 横に表示
+    optionAsideAriaLabel: 横に表示
+    optionAsideHelpMessage: ホバー要素の横に単色の固定線を追加して、カーソルが現在ホバーしている場所を強調表示します。

@@ -1,0 +1,58 @@
+title:
+  title: Okunabilirlik Geliştirme
+  titleAriaLabel: Okunabilirlik Geliştirme
+layoutSwitch:
+  title: Düzen Değiştir
+  titleAriaLabel: Düzen Değiştir
+  titleHelpMessage: VitePress düzen stilini farklı okuma ihtiyaçlarına ve ekranlara uyacak şekilde ayarlayın.
+  titleScreenNavWarningMessage: Mobil ekranda değiştirilebilir düzen yok.
+  optionFullWidth: Tümünü Genişlet
+  optionFullWidthAriaLabel: Tümünü Genişlet
+  optionFullWidthHelpMessage: Kenar çubuğu ve içerik alanı ekranın tam genişliğini kaplar.
+  optionSidebarWidthAdjustableOnly: Ayarlanabilir Kenar Çubuğu Genişliği
+  optionSidebarWidthAdjustableOnlyAriaLabel: Ayarlanabilir Kenar Çubuğu Genişliği
+  optionSidebarWidthAdjustableOnlyHelpMessage: Kenar çubuğu genişliğini genişletin ve kullanıcının kenar çubuğunun maksimum genişliğini seçip özelleştirmesi için yeni bir kaydırıcı ekleyin, ancak içerik alanı genişliği aynı kalır.
+  optionBothWidthAdjustable: Tümünü Genişlet (Ayarlanabilir Genişlik)
+  optionBothWidthAdjustableAriaLabel: Tümünü Genişlet (Ayarlanabilir Genişlik)
+  optionBothWidthAdjustableHelpMessage: Hem kenar çubuğunu hem de belge içeriğini genişletin ve kullanıcının kenar çubuğunun veya belge içeriğinin maksimum genişliğini seçip özelleştirmesi için iki yeni kaydırıcı ekleyin.
+  optionOriginalWidth: Orijinal Genişlik
+  optionOriginalWidthAriaLabel: Orijinal Genişlik
+  optionOriginalWidthHelpMessage: VitePress'in orijinal düzen genişliği
+  contentLayoutMaxWidth:
+    title: Maksimum İçerik Genişliği
+    titleAriaLabel: Maksimum İçerik Genişliği
+    titleHelpMessage: VitePress düzeninin belge içerik genişliğinin tam değerini farklı okuma ihtiyaçlarına ve ekranlara uyacak şekilde ayarlayın.
+    titleScreenNavWarningMessage: Maksimum içerik genişliği mobil ekranda geçici olarak kullanılamaz.
+    slider: Maksimum İçerik Genişliğini Ayarla
+    sliderAriaLabel: Maksimum İçerik Genişliğini Ayarla
+    sliderHelpMessage: Kullanıcının içeriğin maksimum genişliğini seçip özelleştirebileceği aralıklı bir kaydırıcı.
+  pageLayoutMaxWidth:
+    title: Maksimum Sayfa Genişliği
+    titleAriaLabel: Maksimum Sayfa Genişliği
+    titleHelpMessage: VitePress düzeninin sayfa genişliğinin tam değerini farklı okuma ihtiyaçlarına ve ekranlara uyacak şekilde ayarlayın.
+    titleScreenNavWarningMessage: Maksimum sayfa genişliği mobil ekranda geçici olarak kullanılamaz.
+    slider: Maksimum Sayfa Genişliğini Ayarla
+    sliderAriaLabel: Maksimum Sayfa Genişliğini Ayarla
+    sliderHelpMessage: Kullanıcının sayfanın maksimum genişliğini seçip özelleştirebileceği aralıklı bir kaydırıcı.
+spotlight:
+  title: Spot Işığı
+  titleAriaLabel: Spot Işığı
+  titleHelpMessage: Farenin üzerinde gezindiği satırı vurgulayarak okuma ve odaklanma güçlüğü çeken kullanıcıların deneyimini optimize edin.
+  titleScreenNavWarningMessage: Spot ışığı mobil ekranda geçici olarak kullanılamaz.
+  optionOn: Aç
+  optionOnAriaLabel: Aç
+  optionOnHelpMessage: Spot ışığını aç.
+  optionOff: Kapat
+  optionOffAriaLabel: Kapat
+  optionOffHelpMessage: Spot ışığını kapat.
+  styles:
+    title: Spot Işığı Stili
+    titleAriaLabel: Spot Işığı Stili
+    titleHelpMessage: Spot ışığının stillerini ayarlayın.
+    titleScreenNavWarningMessage: Spot ışığı stili mobil ekranda geçici olarak kullanılamaz.
+    optionUnder: Altında
+    optionUnderAriaLabel: Altında
+    optionUnderHelpMessage: İmlecin üzerinde gezindiği öğenin altına düz bir arka plan rengi ekleyerek vurgulayın.
+    optionAside: Yanında
+    optionAsideAriaLabel: Yanında
+    optionAsideHelpMessage: İmlecin üzerinde gezindiği öğenin yanına sabit renkli bir çizgi ekleyerek vurgulayın.

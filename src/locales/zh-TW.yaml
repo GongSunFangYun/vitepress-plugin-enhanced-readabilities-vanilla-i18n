@@ -1,0 +1,58 @@
+title:
+  title: 閱讀增強
+  titleAriaLabel: 閱讀增強
+layoutSwitch:
+  title: 佈局切換
+  titleAriaLabel: 佈局切換
+  titleHelpMessage: 調整 VitePress 的佈局樣式，以適配不同的閱讀習慣和屏幕環境。
+  titleScreenNavWarningMessage: 移動端無可切換佈局。
+  optionFullWidth: 全部展開
+  optionFullWidthAriaLabel: 全部展開
+  optionFullWidthHelpMessage: 使側邊欄和內容區域佔據整個屏幕的全部寬度。
+  optionSidebarWidthAdjustableOnly: 全部展開，但側邊欄寬度可調
+  optionSidebarWidthAdjustableOnlyAriaLabel: 全部展開，但側邊欄寬度可調
+  optionSidebarWidthAdjustableOnlyHelpMessage: 側邊欄寬度可調，但內容區域寬度不變，調整後的側邊欄將可以佔據整個屏幕的最大寬度。
+  optionBothWidthAdjustable: 全部展開，且側邊欄和內容區域寬度均可調
+  optionBothWidthAdjustableAriaLabel: 全部展開，且側邊欄和內容區域寬度均可調
+  optionBothWidthAdjustableHelpMessage: 側邊欄和內容區域寬度均可調，調整後的側邊欄和內容區域將可以佔據整個屏幕的最大寬度。
+  optionOriginalWidth: 原始寬度
+  optionOriginalWidthAriaLabel: 原始寬度
+  optionOriginalWidthHelpMessage: 原始的 VitePress 默認佈局寬度
+  contentLayoutMaxWidth:
+    title: 內容最大寬度
+    titleAriaLabel: 內容最大寬度
+    titleHelpMessage: 調整 VitePress 佈局中內容區域的寬度，以適配不同的閱讀習慣和屏幕環境。
+    titleScreenNavWarningMessage: 移動端暫不支持調整內容最大寬度。
+    slider: 調整內容最大寬度
+    sliderAriaLabel: 調整內容最大寬度
+    sliderHelpMessage: 一個可調整的滑塊，用於選擇和自定義內容最大寬度。
+  pageLayoutMaxWidth:
+    title: 頁面最大寬度
+    titleAriaLabel: 頁面最大寬度
+    titleHelpMessage: 調整 VitePress 佈局中頁面的寬度，以適配不同的閱讀習慣和屏幕環境。
+    titleScreenNavWarningMessage: 移動端暫不支持調整頁面最大寬度。
+    slider: 調整頁面最大寬度
+    sliderAriaLabel: 調整頁面最大寬度
+    sliderHelpMessage: 一個可調整的滑塊，用於選擇和自定義頁面最大寬度。
+spotlight:
+  title: 聚光燈
+  titleAriaLabel: 聚光燈
+  titleHelpMessage: 支持在正文中高亮當前鼠標懸停的行和元素，以優化閱讀和專注困難的用戶的閱讀體驗。
+  titleScreenNavWarningMessage: 移動端暫不支持聚光燈。
+  optionOn: 開啟
+  optionOnAriaLabel: 開啟
+  optionOnHelpMessage: 開啟聚光燈。
+  optionOff: 關閉
+  optionOffAriaLabel: 關閉
+  optionOffHelpMessage: 關閉聚光燈。
+  styles:
+    title: 聚光燈樣式
+    titleAriaLabel: 聚光燈樣式
+    titleHelpMessage: 調整聚光燈的樣式。
+    titleScreenNavWarningMessage: 移動端暫不支持調整聚光燈樣式。
+    optionUnder: 置於底部
+    optionUnderAriaLabel: 置於底部
+    optionUnderHelpMessage: 在當前鼠標懸停的元素下方添加一個純色背景以突出顯示當前鼠標懸停的位置。
+    optionAside: 置於側邊
+    optionAsideAriaLabel: 置於側邊
+    optionAsideHelpMessage: 在當前鼠標懸停的元素旁邊添加一條固定的純色線以突出顯示當前鼠標懸停的位置。

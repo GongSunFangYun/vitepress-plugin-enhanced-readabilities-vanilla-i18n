@@ -1,0 +1,58 @@
+title:
+  title: Mejora de legibilidad
+  titleAriaLabel: Mejora de legibilidad
+layoutSwitch:
+  title: Cambio de diseño
+  titleAriaLabel: Cambio de diseño
+  titleHelpMessage: Ajusta el estilo de diseño de VitePress para adaptarse a diferentes necesidades de lectura y pantallas.
+  titleScreenNavWarningMessage: No hay diseño disponible para cambiar en pantalla móvil.
+  optionFullWidth: Expandir todo
+  optionFullWidthAriaLabel: Expandir todo
+  optionFullWidthHelpMessage: La barra lateral y el área de contenido ocupan todo el ancho de la pantalla.
+  optionSidebarWidthAdjustableOnly: Ancho de barra lateral ajustable
+  optionSidebarWidthAdjustableOnlyAriaLabel: Ancho de barra lateral ajustable
+  optionSidebarWidthAdjustableOnlyHelpMessage: Expande el ancho de la barra lateral y agrega un nuevo control deslizante para que el usuario elija y personalice el ancho máximo de la barra lateral, pero el área de contenido permanece igual.
+  optionBothWidthAdjustable: Expandir todo (ancho ajustable)
+  optionBothWidthAdjustableAriaLabel: Expandir todo (ancho ajustable)
+  optionBothWidthAdjustableHelpMessage: Expande tanto la barra lateral como el contenido del documento y agrega dos nuevos controles deslizantes para que el usuario elija y personalice el ancho máximo de la barra lateral o del contenido del documento.
+  optionOriginalWidth: Ancho original
+  optionOriginalWidthAriaLabel: Ancho original
+  optionOriginalWidthHelpMessage: El ancho de diseño original de VitePress
+  contentLayoutMaxWidth:
+    title: Ancho máximo de contenido
+    titleAriaLabel: Ancho máximo de contenido
+    titleHelpMessage: Ajusta el valor exacto del ancho del contenido del documento de VitePress para adaptarse a diferentes necesidades de lectura y pantallas.
+    titleScreenNavWarningMessage: El ancho máximo de contenido no está disponible temporalmente en pantalla móvil.
+    slider: Ajustar ancho máximo de contenido
+    sliderAriaLabel: Ajustar ancho máximo de contenido
+    sliderHelpMessage: Un control deslizante para que el usuario elija y personalice el ancho máximo deseado del contenido.
+  pageLayoutMaxWidth:
+    title: Ancho máximo de página
+    titleAriaLabel: Ancho máximo de página
+    titleHelpMessage: Ajusta el valor exacto del ancho de página de VitePress para adaptarse a diferentes necesidades de lectura y pantallas.
+    titleScreenNavWarningMessage: El ancho máximo de página no está disponible temporalmente en pantalla móvil.
+    slider: Ajustar ancho máximo de página
+    sliderAriaLabel: Ajustar ancho máximo de página
+    sliderHelpMessage: Un control deslizante para que el usuario elija y personalice el ancho máximo deseado de la página.
+spotlight:
+  title: Enfoque
+  titleAriaLabel: Enfoque
+  titleHelpMessage: Resalta la línea sobre la que se encuentra el mouse actualmente para optimizar la experiencia de usuarios con dificultades de lectura y concentración.
+  titleScreenNavWarningMessage: El enfoque no está disponible temporalmente en pantalla móvil.
+  optionOn: Activar
+  optionOnAriaLabel: Activar
+  optionOnHelpMessage: Activar enfoque.
+  optionOff: Desactivar
+  optionOffAriaLabel: Desactivar
+  optionOffHelpMessage: Desactivar enfoque.
+  styles:
+    title: Estilo de enfoque
+    titleAriaLabel: Estilo de enfoque
+    titleHelpMessage: Ajusta los estilos del enfoque.
+    titleScreenNavWarningMessage: El estilo de enfoque no está disponible temporalmente en pantalla móvil.
+    optionUnder: Debajo
+    optionUnderAriaLabel: Debajo
+    optionUnderHelpMessage: Agrega un color de fondo sólido debajo del elemento para resaltar dónde se encuentra el cursor.
+    optionAside: Al lado
+    optionAsideAriaLabel: Al lado
+    optionAsideHelpMessage: Agrega una línea fija de color sólido al lado del elemento para resaltar dónde se encuentra el cursor.

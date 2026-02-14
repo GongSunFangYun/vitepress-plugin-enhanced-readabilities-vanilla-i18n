@@ -1,0 +1,58 @@
+title:
+  title: 가독성 향상
+  titleAriaLabel: 가독성 향상
+layoutSwitch:
+  title: 레이아웃 전환
+  titleAriaLabel: 레이아웃 전환
+  titleHelpMessage: VitePress의 레이아웃 스타일을 조정하여 다양한 읽기 요구와 화면에 적응합니다.
+  titleScreenNavWarningMessage: 모바일 화면에서는 전환 가능한 레이아웃이 없습니다.
+  optionFullWidth: 전체 확장
+  optionFullWidthAriaLabel: 전체 확장
+  optionFullWidthHelpMessage: 사이드바와 콘텐츠 영역이 화면 전체 너비를 차지합니다.
+  optionSidebarWidthAdjustableOnly: 사이드바 너비 조정 가능
+  optionSidebarWidthAdjustableOnlyAriaLabel: 사이드바 너비 조정 가능
+  optionSidebarWidthAdjustableOnlyHelpMessage: 사이드바 너비를 확장하고 사용자가 사이드바의 최대 너비를 선택하고 사용자 정의할 수 있는 새로운 슬라이더를 추가하지만 콘텐츠 영역 너비는 동일하게 유지됩니다.
+  optionBothWidthAdjustable: 전체 확장 (너비 조정 가능)
+  optionBothWidthAdjustableAriaLabel: 전체 확장 (너비 조정 가능)
+  optionBothWidthAdjustableHelpMessage: 사이드바와 문서 콘텐츠를 모두 확장하고 사용자가 사이드바 또는 문서 콘텐츠의 최대 너비를 선택하고 사용자 정의할 수 있는 두 개의 새로운 슬라이더를 추가합니다.
+  optionOriginalWidth: 원래 너비
+  optionOriginalWidthAriaLabel: 원래 너비
+  optionOriginalWidthHelpMessage: VitePress의 원래 레이아웃 너비
+  contentLayoutMaxWidth:
+    title: 콘텐츠 최대 너비
+    titleAriaLabel: 콘텐츠 최대 너비
+    titleHelpMessage: VitePress 레이아웃의 문서 콘텐츠 너비를 조정하여 다양한 읽기 요구와 화면에 적응합니다.
+    titleScreenNavWarningMessage: 모바일 화면에서는 콘텐츠 최대 너비를 일시적으로 조정할 수 없습니다.
+    slider: 콘텐츠 최대 너비 조정
+    sliderAriaLabel: 콘텐츠 최대 너비 조정
+    sliderHelpMessage: 사용자가 콘텐츠 최대 너비의 원하는 값을 선택하고 사용자 정의할 수 있는 범위 슬라이더입니다.
+  pageLayoutMaxWidth:
+    title: 페이지 최대 너비
+    titleAriaLabel: 페이지 최대 너비
+    titleHelpMessage: VitePress 레이아웃의 페이지 너비를 조정하여 다양한 읽기 요구와 화면에 적응합니다.
+    titleScreenNavWarningMessage: 모바일 화면에서는 페이지 최대 너비를 일시적으로 조정할 수 없습니다.
+    slider: 페이지 최대 너비 조정
+    sliderAriaLabel: 페이지 최대 너비 조정
+    sliderHelpMessage: 사용자가 페이지 최대 너비의 원하는 값을 선택하고 사용자 정의할 수 있는 범위 슬라이더입니다.
+spotlight:
+  title: 스포트라이트
+  titleAriaLabel: 스포트라이트
+  titleHelpMessage: 마우스가 현재 가리키고 있는 줄을 강조 표시하여 읽기 및 집중에 어려움이 있는 사용자의 경험을 최적화합니다.
+  titleScreenNavWarningMessage: 모바일 화면에서는 스포트라이트를 일시적으로 사용할 수 없습니다.
+  optionOn: 켜기
+  optionOnAriaLabel: 켜기
+  optionOnHelpMessage: 스포트라이트를 켭니다.
+  optionOff: 끄기
+  optionOffAriaLabel: 끄기
+  optionOffHelpMessage: 스포트라이트를 끕니다.
+  styles:
+    title: 스포트라이트 스타일
+    titleAriaLabel: 스포트라이트 스타일
+    titleHelpMessage: 스포트라이트의 스타일을 조정합니다.
+    titleScreenNavWarningMessage: 모바일 화면에서는 스포트라이트 스타일을 일시적으로 조정할 수 없습니다.
+    optionUnder: 아래에 표시
+    optionUnderAriaLabel: 아래에 표시
+    optionUnderHelpMessage: 호버 요소 아래에 단색 배경을 추가하여 커서가 현재 가리키는 위치를 강조 표시합니다.
+    optionAside: 옆에 표시
+    optionAsideAriaLabel: 옆에 표시
+    optionAsideHelpMessage: 호버 요소 옆에 단색 고정선을 추가하여 커서가 현재 가리키는 위치를 강조 표시합니다.

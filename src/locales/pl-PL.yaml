@@ -1,0 +1,58 @@
+title:
+  title: Ulepszona czytelność
+  titleAriaLabel: Ulepszona czytelność
+layoutSwitch:
+  title: Przełącz układ
+  titleAriaLabel: Przełącz układ
+  titleHelpMessage: Dostosuj styl układu VitePress do różnych potrzeb czytania i ekranów.
+  titleScreenNavWarningMessage: Brak dostępnego układu do przełączenia na ekranie mobilnym.
+  optionFullWidth: Rozwiń wszystko
+  optionFullWidthAriaLabel: Rozwiń wszystko
+  optionFullWidthHelpMessage: Pasek boczny i obszar treści zajmują całą szerokość ekranu.
+  optionSidebarWidthAdjustableOnly: Regulowana szerokość paska bocznego
+  optionSidebarWidthAdjustableOnlyAriaLabel: Regulowana szerokość paska bocznego
+  optionSidebarWidthAdjustableOnlyHelpMessage: Rozwiń szerokość paska bocznego i dodaj nowy suwak, aby użytkownik mógł wybrać i dostosować maksymalną szerokość paska bocznego, ale szerokość obszaru treści pozostanie taka sama.
+  optionBothWidthAdjustable: Rozwiń wszystko (regulowana szerokość)
+  optionBothWidthAdjustableAriaLabel: Rozwiń wszystko (regulowana szerokość)
+  optionBothWidthAdjustableHelpMessage: Rozwiń zarówno pasek boczny, jak i treść dokumentu i dodaj dwa nowe suwaki, aby użytkownik mógł wybrać i dostosować maksymalną szerokość paska bocznego lub treści dokumentu.
+  optionOriginalWidth: Oryginalna szerokość
+  optionOriginalWidthAriaLabel: Oryginalna szerokość
+  optionOriginalWidthHelpMessage: Oryginalna szerokość układu VitePress
+  contentLayoutMaxWidth:
+    title: Maksymalna szerokość treści
+    titleAriaLabel: Maksymalna szerokość treści
+    titleHelpMessage: Dostosuj dokładną wartość szerokości treści dokumentu VitePress do różnych potrzeb czytania i ekranów.
+    titleScreenNavWarningMessage: Maksymalna szerokość treści jest tymczasowo niedostępna na ekranie mobilnym.
+    slider: Dostosuj maksymalną szerokość treści
+    sliderAriaLabel: Dostosuj maksymalną szerokość treści
+    sliderHelpMessage: Suwak, za pomocą którego użytkownik może wybrać i dostosować żądaną maksymalną szerokość treści.
+  pageLayoutMaxWidth:
+    title: Maksymalna szerokość strony
+    titleAriaLabel: Maksymalna szerokość strony
+    titleHelpMessage: Dostosuj dokładną wartość szerokości strony VitePress do różnych potrzeb czytania i ekranów.
+    titleScreenNavWarningMessage: Maksymalna szerokość strony jest tymczasowo niedostępna na ekranie mobilnym.
+    slider: Dostosuj maksymalną szerokość strony
+    sliderAriaLabel: Dostosuj maksymalną szerokość strony
+    sliderHelpMessage: Suwak, za pomocą którego użytkownik może wybrać i dostosować żądaną maksymalną szerokość strony.
+spotlight:
+  title: Reflektor
+  titleAriaLabel: Reflektor
+  titleHelpMessage: Podświetl wiersz, nad którym aktualnie znajduje się mysz, aby zoptymalizować doświadczenie użytkowników z trudnościami w czytaniu i koncentracji.
+  titleScreenNavWarningMessage: Reflektor jest tymczasowo niedostępny na ekranie mobilnym.
+  optionOn: Włącz
+  optionOnAriaLabel: Włącz
+  optionOnHelpMessage: Włącz reflektor.
+  optionOff: Wyłącz
+  optionOffAriaLabel: Wyłącz
+  optionOffHelpMessage: Wyłącz reflektor.
+  styles:
+    title: Styl reflektora
+    titleAriaLabel: Styl reflektora
+    titleHelpMessage: Dostosuj style reflektora.
+    titleScreenNavWarningMessage: Styl reflektora jest tymczasowo niedostępny na ekranie mobilnym.
+    optionUnder: Pod spodem
+    optionUnderAriaLabel: Pod spodem
+    optionUnderHelpMessage: Dodaje jednolity kolor tła pod elementem, aby podświetlić miejsce, w którym znajduje się kursor.
+    optionAside: Z boku
+    optionAsideAriaLabel: Z boku
+    optionAsideHelpMessage: Dodaje stałą linię jednolitego koloru obok elementu, aby podświetlić miejsce, w którym znajduje się kursor.
